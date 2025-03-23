@@ -20,4 +20,4 @@
 ---
 include:
   - board: adafruit_kb2040
-    shield: yt3key2040
+    shield: YT3Key2040
