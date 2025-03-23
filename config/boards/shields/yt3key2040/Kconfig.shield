@@ -1,0 +1,2 @@
+config SHIELD_YT3KEY2040
+	def_bool $(shields_list_contains, yt3key2040)
